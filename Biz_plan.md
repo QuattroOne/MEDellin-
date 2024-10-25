@@ -165,18 +165,18 @@ This business plan outlines the establishment of a **Wellness Recharge Center** 
 - **Total Initial Investment:** Estimated at $500,000.
 
 - **Allocation:**
-  - **Facility Setup:** $200,000
-  - **Medical Equipment:** $100,000
-  - **Technology Infrastructure:** $50,000
-  - **Operating Capital:** $150,000
+  - **Facility Setup:** $x.xx
+  - **Medical Equipment:** $x.xx
+  - **Technology Infrastructure:** $x.xx
+  - **Operating Capital:** $x.xx
 
 #### **10.2 Revenue Projections**
 
-- **Year 1:** $750,000
+- **Year 1:** $x.xx
 
-- **Year 2:** $1,200,000
+- **Year 2:** $x.xx
 
-- **Year 3:** $1,800,000
+- **Year 3:** $x.xx
 
 #### **10.3 Expenses**
 
@@ -192,12 +192,12 @@ This business plan outlines the establishment of a **Wellness Recharge Center** 
 
 ### **11. Funding Requirements**
 
-- **Total Funding Needed:** $500,000
+- **Total Funding Needed:** $x.xx
 
 - **Funding Sources:**
-  - **Founder Investment:** $100,000
-  - **Investor Contributions:** Seeking $300,000 from equity investors.
-  - **Bank Loans:** $100,000 from financial institutions.
+  - **Founder Investment:** $x.xx
+  - **Investor Contributions:** Seeking $x.xx from equity investors.
+  - **Bank Loans:** $x.xx from financial institutions.
 
 - **Investor Incentives:**
   - **Equity Shares:** Proportional to investment.
